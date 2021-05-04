@@ -1,4 +1,8 @@
 ## banglalink-interview assessments(Big Data)
-### Problem Set 1: Task A
+### Problem Set 2
 
-run the application by using this command: ```python3 main.py```
+Here I used Mysql 8.
+
+Run Instruction:
+1. First run the ddl script (file://./ipdr-ddl.sql)
+2. Then execute this script (file://./bl-problem-test2.sql) to get the result
